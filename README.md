@@ -131,3 +131,9 @@ Note: Issues without logs may not be effectively addressed.
 ### Developer
 
 愛君の名は
+
+---
+
+## Star 历程 / Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KiminonawaResa/HyperLight&type=Date)](https://star-history.com/#KiminonawaResa/HyperLight&Date)
