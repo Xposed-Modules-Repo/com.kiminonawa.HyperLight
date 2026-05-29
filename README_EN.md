@@ -120,3 +120,7 @@ This project is for educational and personal use only.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KiminonawaResa/HyperLight&type=Date)](https://star-history.com/#KiminonawaResa/HyperLight&Date)
+
+## Communication & Discussion
+
+Telegram Group: [HyperLight](https://t.me/+S1ljPdehxBJlMjg1)
