@@ -75,6 +75,7 @@
 - Target Android: Android 16 (API 36)
 - Supported system: HyperOS 3.x
 - Xposed framework: LSPosed
+- Only supports mobile devices; tablets and other non-mobile devices are not compatible
 
 ## Installation
 
