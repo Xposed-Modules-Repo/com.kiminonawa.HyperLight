@@ -74,6 +74,7 @@
 - 目标 Android 版本：Android 16 (API 36)
 - 支持系统：HyperOS 3.x
 - Xposed 框架：LSPosed
+- 仅支持手机设备，平板等非手机设备均不适配
 
 ## 安装
 
