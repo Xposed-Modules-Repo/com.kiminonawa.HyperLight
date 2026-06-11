@@ -123,4 +123,4 @@
 
 ## 交流与讨论
 
-Telegram 群组：[HyperLight](https://t.me/+S1ljPdehxBJlMjg1)
+Telegram 群组：[HyperLight](https://t.me/+8M40i3aiAEc0ZTg1)
