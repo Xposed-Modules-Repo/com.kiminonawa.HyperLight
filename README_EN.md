@@ -124,4 +124,4 @@ This project is for educational and personal use only.
 
 ## Communication & Discussion
 
-Telegram Group: [HyperLight](https://t.me/+S1ljPdehxBJlMjg1)
+Telegram Group: [HyperLight](https://t.me/+8M40i3aiAEc0ZTg1)
