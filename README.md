@@ -119,8 +119,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KiminonawaResa/HyperLight&type=Date)](https://star-history.com/#KiminonawaResa/HyperLight&Date)
-
+[![Star History Chart](https://star-history.dera.page/svg?repos=KiminonawaResa/HyperLight&type=Date)](https://star-history.dera.page/#KiminonawaResa/HyperLight&Date)
 ## 交流与讨论
 
 Telegram 群组：[HyperLight](https://t.me/+8M40i3aiAEc0ZTg1)
